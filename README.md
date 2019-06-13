@@ -1,3 +1,2 @@
 # Papers
-
-These are some of the papers written by me.
+This repository contains some of the papers written by me.
